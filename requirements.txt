@@ -1,5 +1,5 @@
 keyboard==0.13.3
 mouse==0.7.0
-pywin32==224
+pywin32==301
 requests==2.22.0
 
